@@ -1,0 +1,5 @@
+﻿  ta2_lab_5.cpp
+C:\Users\Akil0515\source\VS_projects\ta2_lab\ta2_lab_5\ta2_lab_5.cpp(108,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Akil0515\source\VS_projects\ta2_lab\ta2_lab_5\ta2_lab_5.cpp(180,12): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+C:\Users\Akil0515\source\VS_projects\ta2_lab\ta2_lab_5\ta2_lab_5.cpp(11): message : see declaration of 'Node'
+  ta2_lab_5.vcxproj -> C:\Users\Akil0515\source\VS_projects\ta2_lab\Debug\ta2_lab_5.exe

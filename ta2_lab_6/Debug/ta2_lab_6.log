@@ -1,0 +1,6 @@
+﻿  ta2_lab_6.cpp
+C:\Users\Akil0515\source\VS_projects\ta2_lab\ta2_lab_6\ta2_lab_6.cpp(50,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Akil0515\source\VS_projects\ta2_lab\ta2_lab_6\ta2_lab_6.cpp(186,17): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\Akil0515\source\VS_projects\ta2_lab\ta2_lab_6\ta2_lab_6.cpp(151,9): warning C4101: 'i': unreferenced local variable
+C:\Users\Akil0515\source\VS_projects\ta2_lab\ta2_lab_6\ta2_lab_6.cpp(139): warning C4715: 'ErorCheck': not all control paths return a value
+  ta2_lab_6.vcxproj -> C:\Users\Akil0515\source\VS_projects\ta2_lab\Debug\ta2_lab_6.exe

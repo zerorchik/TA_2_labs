@@ -1,0 +1,4 @@
+﻿  ta2_lab_8.cpp
+C:\Users\Akil0515\source\VS_projects\ta2_lab\ta2_lab_8\ta2_lab_8.cpp(112,9): warning C4101: 'i': unreferenced local variable
+C:\Users\Akil0515\source\VS_projects\ta2_lab\ta2_lab_8\ta2_lab_8.cpp(104): warning C4715: 'ErorCheck': not all control paths return a value
+  ta2_lab_8.vcxproj -> C:\Users\Akil0515\source\VS_projects\ta2_lab\Debug\ta2_lab_8.exe
